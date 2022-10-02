@@ -20,7 +20,7 @@ const [allimg,setAllimg]=useState(images)
 
 useEffect(()=>{
     setInterval(() => {
-        setSelectedimg(selectedimg=>selectedimg <9 ?selectedimg+1:0)
+        setSelectedimg(selectedimg=>selectedimg <8 ?selectedimg+1:0)
     }, 3000);
 },[])
     return (

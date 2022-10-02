@@ -52,37 +52,37 @@ export const navItems = [
 export const MakeupDropdown = [
   {
     id: 1,
-    title: "Top Stories",
+    title: "Lipsticks",
     path: "./topstories",
     cName: "submenu-item",
   },
   {
     id: 2,
-    title: "Crime",
+    title: "Wonder woman Lipstick Range",
     path: "./crime",
     cName: "submenu-item",
   },
   {
     id: 3,
-    title: "Politics",
+    title: "Lip Care",
     path: "./politics",
     cName: "submenu-item",
   },
   {
     id: 4,
-    title: "Infrastructure",
-    path: "./infrastructure",
+    title: "Liquip Lip Colours",
+    path: "./Liquip Lip Colours",
     cName: "submenu-item",
   },
   {
       id: 5,
-      title: "Life in the City",
+      title: "Lip Gloss Liners",
       path: "./life_inthecity",
       cName: "submenu-item",
     },
     {
       id: 6,
-      title: "Bengaluru 2040",
+      title: "Value Sets",
       path: "./bengaluru2040",
       cName: "submenu-item",
     },
@@ -93,25 +93,25 @@ export const MakeupDropdown = [
 export const BrushesDropdown = [
   {
     id: 1,
-    title: "Top Stories",
+    title: "blend-Trend-Face-blush-001",
     path: "./topstories",
     cName: "submenu-item",
   },
   {
     id: 2,
-    title: "Politics",
+    title: "blend-Trend-Face-blush-003",
     path: "./politics",
     cName: "submenu-item",
   },
   {
     id: 3,
-    title: "Districts",
+    title: "blend-Trend-Face-blush-004",
     path: "./districts",
     cName: "submenu-item",
   },
   {
     id: 4,
-    title: "22in22",
+    title: "blend-Trend-Face-blush-005",
     path: "./22in22",
     cName: "submenu-item",
   },
@@ -122,43 +122,43 @@ export const BrushesDropdown = [
 export const SkincareDropdown = [
   {
     id: 1,
-    title: "Politics",
+    title: "MOISTURIZERS",
     path: "./politics",
     cName: "submenu-item",
   },
   {
     id: 2,
-    title: "Coronavirus",
+    title: "COFFEE CULTURE RANGE",
     path: "./coronavirus",
     cName: "submenu-item",
   },
   {
     id: 3,
-    title: "North and Central",
+    title: "AQUAHOLIC RANGE",
     path: "./northandcentral",
     cName: "submenu-item",
   },
   {
     id: 4,
-    title: "East and Northeast",
+    title: "SUNSCREEN",
     path: "./eastandnortheast",
     cName: "submenu-item",
   },
   {
     id: 5,
-    title: "South",
+    title: "MASKS",
     path: "./south",
     cName: "submenu-item",
   },
   {
     id: 6,
-    title: "West",
+    title: "SHEET MASKS",
     path: "./west",
     cName: "submenu-item",
   },
   {
     id: 7,
-    title: "India@75",
+    title: "SETTING MISTS",
     path: "./india@75",
     cName: "submenu-item",
   },
@@ -169,43 +169,43 @@ export const SkincareDropdown = [
 export const GiftingDropdown = [
   {
     id: 1,
-    title: "DH Cup 2022",
+    title: "SUGAR MERCH STATION",
     path: "./dhcup2022",
     cName: "submenu-item",
   },
   {
       id: 2,
-      title: "Cricket",
+      title: "MAKEUP KITS",
       path: "./cricket",
       cName: "submenu-item",
     },
     {
       id: 3,
-      title: "Formula 1",
+      title: "BEST SELLERS",
       path: "./formula1",
       cName: "submenu-item",
     },
     {
       id: 4,
-      title: "Football",
+      title: "VALUE SETS",
       path: "./football",
       cName: "submenu-item",
     },
     {
         id: 5,
-        title: "Tennis",
+        title: "SUGAR SETS",
         path: "./tennis",
         cName: "submenu-item",
       },
       {
         id: 6,
-        title: "Sportscene",
+        title: "E-GIFT CARDS",
         path: "./sportscene",
         cName: "submenu-item",
       },
       {
         id: 7,
-        title: "Other Sports",
+        title: "Other ",
         path: "./othersports",
         cName: "submenu-item",
       },
@@ -215,34 +215,23 @@ export const GiftingDropdown = [
 export const BlogDropdown = [
   {
     id: 1,
-    title: "Business News",
+    title: "FEATURED",
     path: "./businessNews",
     cName: "submenu-item",
   },
   {
       id: 2,
-      title: "Family Finance",
+      title: "MAKEUP",
       path: "./familyfinance",
       cName: "submenu-item",
     },
     {
       id: 3,
-      title: "Technology",
+      title: "SKINCARE",
       path: "./technology",
       cName: "submenu-item",
-    },
-    {
-      id: 4,
-      title: "DH Wheels",
-      path: "./dhwheels",
-      cName: "submenu-item",
-    },
-    {
-        id: 5,
-        title: "Budget 2022",
-        path: "./Budget2022",
-        cName: "submenu-item",
-      },
+    }
+    
      
      
 ];
@@ -251,37 +240,37 @@ export const BlogDropdown = [
 export const OffersDropdown = [
   {
     id: 1,
-    title: "DH Views",
+    title: "NEW OFFERS",
     path: "./dhviews",
     cName: "submenu-item",
   },
   {
       id: 2,
-      title: "Editorials",
+      title: "EXITING OFFERS",
       path: "./editorials",
       cName: "submenu-item",
     },
     {
       id: 3,
-      title: "Panorama",
+      title: "100% OFFER",
       path: "./panorama",
       cName: "submenu-item",
     },
     {
       id: 4,
-      title: "Comment",
+      title: "DISCOUNT",
       path: "./comment",
       cName: "submenu-item",
     },
     {
         id: 5,
-        title: "In Perspective",
+        title: "BUY ONE GET ONE",
         path: "./inperspective",
         cName: "submenu-item",
       },
       {
         id: 6,
-        title: "Right in the Middle",
+        title: "LIP BALM",
         path: "./rightinmiddle",
         cName: "submenu-item",
       },
@@ -292,44 +281,44 @@ export const OffersDropdown = [
 export const StoresDropdown = [
   {
     id: 1,
-    title: "Metrolife",
+    title: "DELHI STORE",
     path: "./metrolife",
     cName: "submenu-item",
   },
   {
       id: 2,
-      title: "Entertainment",
+      title: "PUNJAB STORES",
       path: "./entertainment",
       cName: "submenu-item",
     },
     {
       id: 3,
-      title: "Travel",
+      title: "KERAL STORES",
       path: "./tarvel",
       cName: "submenu-item",
     },
     {
       id: 4,
-      title: "Spectrum",
+      title: "PUNE",
       path: "./spectrum",
       cName: "submenu-item",
     },
     {
         id: 5,
-        title: "Sunday Hearld",
+        title: "MUMBAI",
         path: "./inperspective",
         cName: "submenu-item",
       },
       {
         id: 6,
-        title: "Living",
+        title: "JAIPUR",
         path: "./living",
         cName: "submenu-item",
       },
       
      
 ];
-
+  
 
    
       
