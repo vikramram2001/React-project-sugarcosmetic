@@ -1,0 +1,11 @@
+.tophead{
+    display:flex;
+    background-color: black;
+    align-items: center;
+    
+}
+.img{
+    height: 60px;
+    margin-right: -30px;
+
+}
